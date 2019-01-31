@@ -1,0 +1,357 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00238_left_image_rect.jpeg'>
+    <box top='502' left='36' width='39' height='42'/>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00239_left_image_rect.jpeg'>
+    <box top='509' left='44' width='47' height='37'/>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00240_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00241_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00242_left_image_rect.jpeg'>
+    <box top='502' left='37' width='41' height='43'/>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00243_left_image_rect.jpeg'>
+    <box top='498' left='37' width='58' height='47'/>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00244_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00245_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00246_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00247_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00248_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00249_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00250_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00251_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00252_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00253_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00254_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00255_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00256_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00257_left_image_rect.jpeg'>
+    <box top='53' left='856' width='64' height='60'/>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00258_left_image_rect.jpeg'>
+    <box top='48' left='854' width='74' height='76'/>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00259_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00260_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00261_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00262_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00263_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00264_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00265_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00266_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00267_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00268_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00269_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00270_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00271_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00272_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00273_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00274_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00275_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00276_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00277_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00278_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00279_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00280_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00281_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00282_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00283_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00284_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00285_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00286_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00287_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00288_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00289_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00290_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00291_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00292_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00293_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00294_left_image_rect.jpeg'>
+    <box top='980' left='296' width='110' height='89'/>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00295_left_image_rect.jpeg'>
+    <box top='966' left='288' width='120' height='102'/>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00296_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00297_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00298_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00299_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00300_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00301_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00302_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00303_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00304_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00305_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00306_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00307_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00308_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00309_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00310_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00311_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00312_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00313_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00314_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00315_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00318_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00319_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00320_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00322_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00323_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00324_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00325_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00326_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00327_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00328_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00329_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00330_left_image_rect.jpeg'>
+    <box top='932' left='178' width='143' height='129'/>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00331_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00332_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00334_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00336_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00338_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00339_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00340_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00341_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00342_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00343_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00344_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00346_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00347_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00348_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00349_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00350_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00351_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00352_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00353_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00354_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00356_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00357_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00358_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00360_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00361_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00362_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00363_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00364_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00365_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00366_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00367_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00368_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00369_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00370_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00371_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00372_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00374_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00375_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00376_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00377_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00378_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00379_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00380_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00381_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00382_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00383_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00384_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00385_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00386_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00387_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00388_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00389_left_image_rect.jpeg'>
+    <box top='64' left='1774' width='142' height='112'/>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00390_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00391_left_image_rect.jpeg'>
+    <box top='338' left='970' width='138' height='117'/>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00392_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00393_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00394_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00395_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00396_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00397_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00398_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00399_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00400_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00401_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00402_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00403_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00404_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00405_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00406_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00407_left_image_rect.jpeg'>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00408_left_image_rect.jpeg'>
+    <box top='63' left='1686' width='160' height='143'/>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/00430_left_image_rect_color.jpeg'>
+    <box top='547' left='1019' width='49' height='45'/>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/WhatsApp Image 2019-01-31 at 12.13.28.jpeg'>
+    <box top='602' left='667' width='130' height='141'/>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/WhatsApp Image 2019-01-31 at 13.08.33 (1).jpeg'>
+    <box top='548' left='280' width='74' height='69'/>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/WhatsApp Image 2019-01-31 at 13.08.34.jpeg'>
+    <box top='607' left='317' width='71' height='73'/>
+  </image>
+  <image file='/home/alaa/Documents/github/Python-Vision-Lab/BlackSquarePatteren2/WhatsApp Image 2019-01-31 at 13.08.35 (1).jpeg'>
+    <box top='713' left='654' width='62' height='67'/>
+  </image>
+</images>
+</dataset>
